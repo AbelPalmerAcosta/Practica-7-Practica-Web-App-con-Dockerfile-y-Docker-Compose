@@ -14,3 +14,6 @@ Repositorio para la práctica de integración de un servidor de aplicación web 
 3. En la raíz del proyecto, ejecuta el siguiente comando para construir y levantar los servicios:
    ```bash
    docker compose up --build -d
+4. Abre tu navegador web e ingresa a: 
+   ```bash
+   http://localhost:5000
